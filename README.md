@@ -1,2 +1,3 @@
 # hello-world
-Learning Github
+
+This project is used for learning github.
